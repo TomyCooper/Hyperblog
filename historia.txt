@@ -1,0 +1,10 @@
+Este el es primer archivo con el que aprendí GIT.
+
+La idea es aprender cómo se guardan los cambios de este archivo en el repositorio.
+-------------------------------------------
+
+Esta es la historia de Tomy.
+
+Tomy tiene 24 años y nació en Bogotá.
+
+Hoy hablaremos de su historia.
