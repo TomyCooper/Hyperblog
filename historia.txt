@@ -12,3 +12,7 @@ Hoy hablaremos de su historia.
 -------------------------------------------
 
 Esto es un pequeño cambio para que podamos entender el commit de un cambio.
+
+-------------------------------------------
+
+Vamos a hacer otro pequeño cambio para poder entender los comandos git reset/rm
