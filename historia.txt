@@ -8,3 +8,7 @@ Esta es la historia de Tomy.
 Tomy tiene 24 años y nació en Bogotá.
 
 Hoy hablaremos de su historia.
+
+-------------------------------------------
+
+Esto es un pequeño cambio para que podamos entender el commit de un cambio.
